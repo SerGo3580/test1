@@ -11,7 +11,7 @@
     float: left;
 	}
 	p{
-     margin-top:20px;
+     margin-top:23px;
     padding: 10px;
     color: black;
     font-size:25px;
@@ -26,7 +26,7 @@
         font-size:20px;
         font-family:italic;
         height: 30px;
-        width:70px;
+        width:80px;
         position:absolute;
         top:0;
         border: 2px solid black;
